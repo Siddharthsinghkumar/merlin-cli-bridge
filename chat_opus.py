@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 def main():
     with sync_playwright() as p:
         browser = p.chromium.launch_persistent_context(
-            user_data_dir="/home/sidd/project/merlin-cli-bridge/playwright_profile",
+            user_data_dir="./playwright_profile",
             headless=False,
             args=["--disable-blink-features=AutomationControlled"]
         )

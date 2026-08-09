@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
-            user_data_dir="/home/sidd/project/merlin-cli-bridge/chrome_profile",
+            user_data_dir="./chrome_profile",
             headless=False,
             args=[
                 "--disable-blink-features=AutomationControlled",
