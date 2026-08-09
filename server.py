@@ -149,7 +149,8 @@ class BrowserManager:
     async def start(self):
         self.playwright = await async_playwright().start()
         
-        user_data_dir = "/home/sidd/project/merlin-cli-bridge/playwright_profile"
+        import os
+        user_data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "playwright_profile")
         # Always run headful (headless=False) to maintain completely consistent hardware fingerprinting.
         # We rely on xvfb-run in the startup wrapper to keep it hidden during background operations.
         
@@ -201,7 +202,8 @@ class BrowserManager:
                     print(f"Error closing context: {e}")
                     
             # 3. Launch headful context routed to user's real desktop display
-            user_data_dir = "/home/sidd/project/merlin-cli-bridge/playwright_profile"
+            import os
+            user_data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "playwright_profile")
             print("[*] Launching visible headful Chrome for login...")
             
             env_vars = os.environ.copy()
@@ -732,8 +734,8 @@ async def chat_completions(req: ChatCompletionRequest, request: Request):
                     status_str += "✅ **Logged In!** The chat input box was successfully detected. You can start sending prompts normally now.\n"
                 else:
                     status_str += "❌ **Not Logged In / Blocked!** The chat input box could *not* be found. The browser might be showing the login page or a Cloudflare Turnstile verification challenge.\n"
-                    # Capture a debug screenshot
-                    screenshot_path = "/home/sidd/project/merlin-cli-bridge/ui_screenshot.png"
+                    import os
+                    screenshot_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ui_screenshot.png")
                     await page.screenshot(path=screenshot_path)
                     status_str += f"\n📸 Captured a screenshot of the current page to `{screenshot_path}`. Open it to see what is blocking the page."
             except Exception as e:
@@ -1195,9 +1197,10 @@ The downstream system will process this JSON and provide the output in the next 
             bash_match = re.search(r'```bash\n(.*?)\n```', full_response, re.DOTALL)
             if bash_match:
                 script = bash_match.group(1)
-                import subprocess
+                import subprocess, os
                 print("Executing Bash Script...")
-                res = subprocess.run(script, shell=True, capture_output=True, text=True, cwd='/home/sidd/project/merlin-cli')
+                cwd_path = os.environ.get('MERLIN_CLI_PATH', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'merlin-cli'))
+                res = subprocess.run(script, shell=True, capture_output=True, text=True, cwd=cwd_path)
                 out = res.stdout + "\\n" + res.stderr
                 prompt = f"Command output:\\n```\\n{out}\\n```\\nWhat's next? Please output the next JSON action, bash block, or your final response if done."
                 
