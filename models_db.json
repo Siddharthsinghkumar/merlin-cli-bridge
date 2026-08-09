@@ -1,0 +1,86 @@
+{
+    "claude-sonnet-46": {
+        "merlin_name": "Claude Sonnet 4.6",
+        "cost": 100
+    },
+    "claude-opus-47": {
+        "merlin_name": "Claude Opus 4.7",
+        "cost": 400
+    },
+    "claude-opus-48": {
+        "merlin_name": "Claude Opus 4.8",
+        "cost": 400
+    },
+    "gpt-54": {
+        "merlin_name": "GPT 5.4",
+        "cost": 300
+    },
+    "gpt-55": {
+        "merlin_name": "GPT 5.5",
+        "cost": 300
+    },
+    "gemini-35-flash": {
+        "merlin_name": "Gemini 3.5 Flash",
+        "cost": 1
+    },
+    "gemini-31-pro": {
+        "merlin_name": "Gemini 3.1 Pro",
+        "cost": 100
+    },
+    "grok-43": {
+        "merlin_name": "Grok 4.3",
+        "cost": 10
+    },
+    "auto-select-model": {
+        "merlin_name": "Auto Select Model",
+        "cost": 0
+    },
+    "gemini-25-flash-lite": {
+        "merlin_name": "Gemini 2.5 Flash Lite",
+        "cost": 1
+    },
+    "minimax-m27": {
+        "merlin_name": "MiniMax M2.7",
+        "cost": 1
+    },
+    "claude-haiku-45": {
+        "merlin_name": "Claude Haiku 4.5",
+        "cost": 5
+    },
+    "kimi-k26": {
+        "merlin_name": "Kimi K2.6",
+        "cost": 5
+    },
+    "deepseek-v4-pro": {
+        "merlin_name": "DeepSeek v4 Pro",
+        "cost": 5
+    },
+    "glm-51": {
+        "merlin_name": "GLM 5.1",
+        "cost": 5
+    },
+    "gemini-31-flash-lite": {
+        "merlin_name": "Gemini 3.1 Flash Lite",
+        "cost": 1
+    },
+    "minimax-m25": {
+        "merlin_name": "MiniMax M2.5",
+        "cost": 1
+    },
+    "kimi-k25": {
+        "merlin_name": "Kimi K2.5",
+        "cost": 5
+    },
+    "claude-opus-46": {
+        "merlin_name": "Claude Opus 4.6",
+        "cost": 200
+    },
+    "gpt-52": {
+        "merlin_name": "GPT 5.2",
+        "cost": 30
+    },
+    "gemini-3-flash": {
+        "merlin_name": "Gemini 3 Flash",
+        "cost": 1
+    }
+}

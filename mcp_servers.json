@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "graphify": {
+      "command": "/home/sidd/.local/bin/graphify-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}

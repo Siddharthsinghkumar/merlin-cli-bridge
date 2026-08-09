@@ -1,0 +1,251 @@
+--- Printing First 50 Buttons ---
+Button 0:
+  Text: 
+  Attrs: {'class': ['select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'rounded-md', 'text-xs', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'size-9', 'hover:bg-accent', 'hover:text-accent-foreground', 'hidden', 'md:flex']}
+  HTML: <button class="select-none items-center justify-center whitespace-nowrap rounded-md text-xs font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 size-9 hover:bg-accent hover:text-accent-foreground hidde...
+
+Button 1:
+  Text: History
+  Attrs: {'class': ['focus-visible:outline-none', 'group', 'peer', 'inline-flex', 'select-none', 'flex-col', 'items-center', 'justify-center', 'whitespace-nowrap', 'rounded-md', 'text-xs', 'font-medium', 'transition-colors', 'focus-visible:ring-0', 'focus-visible:ring-transparent', 'disabled:pointer-events-none', 'disabled:opacity-50'], 'data-state': 'closed', 'id': 'sidebar-history-btn'}
+  HTML: <button class="focus-visible:outline-none group peer inline-flex select-none flex-col items-center justify-center whitespace-nowrap rounded-md text-xs font-medium transition-colors focus-visible:ring-0 focus-visible:ring-transparent disabled:pointer-events-none disabled:opacity-50" data-state="close...
+
+Button 2:
+  Text: 
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'rounded-md', 'text-xs', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'size-9', 'hover:bg-accent', 'hover:text-accent-foreground']}
+  HTML: <button class="inline-flex select-none items-center justify-center whitespace-nowrap rounded-md text-xs font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 size-9 hover:bg-accent hover:text-accent-fore...
+
+Button 3:
+  Text: 
+  Attrs: {'class': ['focus-visible:outline-none', 'group', 'peer', 'inline-flex', 'select-none', 'flex-col', 'items-center', 'justify-center', 'whitespace-nowrap', 'rounded-md', 'text-xs', 'font-medium', 'transition-colors', 'focus-visible:ring-0', 'focus-visible:ring-transparent', 'disabled:pointer-events-none', 'disabled:opacity-50'], 'data-state': 'closed'}
+  HTML: <button class="focus-visible:outline-none group peer inline-flex select-none flex-col items-center justify-center whitespace-nowrap rounded-md text-xs font-medium transition-colors focus-visible:ring-0 focus-visible:ring-transparent disabled:pointer-events-none disabled:opacity-50" data-state="close...
+
+Button 4:
+  Text: 
+  Attrs: {'class': ['select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'rounded-md', 'text-xs', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'size-9', 'hover:bg-accent', 'hover:text-accent-foreground', 'relative', 'flex', 'shrink-0', 'flex-col', 'gap-[3px]', 'py-1', 'data-[state=open]:bg-accent', 'md:hidden'], 'data-state': 'closed'}
+  HTML: <button class="select-none items-center justify-center whitespace-nowrap rounded-md text-xs font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 size-9 hover:bg-accent hover:text-accent-foreground relat...
+
+Button 5:
+  Text: 
+  Attrs: {'class': ['transition-colors', 'ml-2', 'mr-0.5', 'rounded-full', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'focus-visible:ring-offset-background'], 'type': 'button', 'id': 'radix-:r6:', 'aria-haspopup': 'menu', 'aria-expanded': 'false', 'data-state': 'closed'}
+  HTML: <button aria-expanded="false" aria-haspopup="menu" class="transition-colors ml-2 mr-0.5 rounded-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background" data-state="closed" id="radix-:r6:" type="button"><span class...
+
+Button 6:
+  Text: GPT5.5
+  Attrs: {'class': ['inline-flex', 'select-none', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'text-sm', 'hover:text-accent-foreground', 'group', 'h-9', 'cursor-pointer', 'items-center', 'gap-1.5', 'rounded-full', 'p-0', 'hover:bg-transparent', 'focus-visible:outline-foreground', 'pointer-events-auto', 'md:hidden'], 'data-state': 'on'}
+  HTML: <button class="inline-flex select-none justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-sm hover:text-accent-foreground group h-9 cursor-pointer items-center ga...
+
+Button 7:
+  Text: 
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'text-sm', 'group', 'size-9', 'rounded-full', 'p-0', 'duration-75', 'focus-visible:outline-black', 'motion-safe:transition-all', 'dark:focus-visible:outline-white', 'bg-transparent', 'text-foreground', 'hover:bg-secondary', 'hover:text-foreground'], 'data-state': 'off', 'type': 'button', 'id': 'radix-:R3r572svd5j7rrllij4va:', 'aria-haspopup': 'menu', 'aria-expanded': 'false'}
+  HTML: <button aria-expanded="false" aria-haspopup="menu" class="inline-flex select-none items-center justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-sm group size-9 ...
+
+Button 8:
+  Text: 
+  Attrs: {'type': 'button', 'aria-pressed': 'false', 'data-state': 'closed', 'class': ['inline-flex', 'items-center', 'justify-center', 'text-sm', 'font-medium', 'transition-colors', 'data-[state=on]:bg-accent', 'data-[state=on]:text-accent-foreground', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'group', 'relative', 'h-9', 'shrink-0', 'rounded-full', 'shadow-none', 'duration-75', 'focus-visible:outline-black', 'motion-safe:transition-all', 'dark:focus-visible:outline-white', 'bg-transparent', 'text-foreground', 'hover:bg-secondary', 'hover:text-foreground', 'w-9', 'p-0', 'opacity-100']}
+  HTML: <button aria-pressed="false" class="inline-flex items-center justify-center text-sm font-medium transition-colors data-[state=on]:bg-accent data-[state=on]:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 ...
+
+Button 9:
+  Text: 
+  Attrs: {'type': 'button', 'aria-pressed': 'false', 'data-state': 'closed', 'class': ['inline-flex', 'items-center', 'justify-center', 'text-sm', 'font-medium', 'transition-colors', 'data-[state=on]:bg-accent', 'data-[state=on]:text-accent-foreground', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'group', 'relative', 'h-9', 'shrink-0', 'rounded-full', 'shadow-none', 'duration-75', 'focus-visible:outline-black', 'motion-safe:transition-all', 'dark:focus-visible:outline-white', 'bg-transparent', 'text-foreground', 'hover:bg-secondary', 'hover:text-foreground', 'w-9', 'p-0'], 'aria-disabled': 'false', 'aria-haspopup': 'dialog', 'aria-expanded': 'false', 'aria-controls': 'radix-:R17r572svd5j7rrllij4va:'}
+  HTML: <button aria-controls="radix-:R17r572svd5j7rrllij4va:" aria-disabled="false" aria-expanded="false" aria-haspopup="dialog" aria-pressed="false" class="inline-flex items-center justify-center text-sm font-medium transition-colors data-[state=on]:bg-accent data-[state=on]:text-accent-foreground focus-v...
+
+Button 10:
+  Text: 
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'text-sm', 'group', 'size-9', 'rounded-full', 'p-0', 'duration-75', 'focus-visible:outline-black', 'motion-safe:transition-all', 'dark:focus-visible:outline-white', 'bg-transparent', 'text-foreground', 'hover:bg-secondary', 'hover:text-foreground'], 'id': 'webaccesstoggle-promptarea', 'data-state': 'off', 'type': 'button', 'aria-haspopup': 'menu', 'aria-expanded': 'false'}
+  HTML: <button aria-expanded="false" aria-haspopup="menu" class="inline-flex select-none items-center justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-sm group size-9 ...
+
+Button 11:
+  Text: GPT5.5
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'text-sm', 'hover:text-accent-foreground', 'group', 'h-9', 'cursor-pointer', 'items-center', 'gap-1.5', 'rounded-full', 'p-0', 'hover:bg-transparent', 'focus-visible:outline-foreground', 'hidden', 'md:flex'], 'data-state': 'on'}
+  HTML: <button class="select-none justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-sm hover:text-accent-foreground group h-9 cursor-pointer items-center gap-1.5 rounde...
+
+Button 12:
+  Text: 
+  Attrs: {'type': 'button', 'aria-pressed': 'false', 'data-state': 'closed', 'class': ['inline-flex', 'items-center', 'justify-center', 'text-sm', 'font-medium', 'transition-colors', 'data-[state=on]:bg-accent', 'data-[state=on]:text-accent-foreground', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'group', 'relative', 'h-9', 'shrink-0', 'cursor-pointer', 'rounded-full', 'shadow-none', 'duration-75', 'focus-visible:outline-foreground', 'motion-safe:transition-all', 'bg-transparent', 'text-foreground', 'hover:bg-secondary', 'hover:text-foreground', 'w-9', 'p-0']}
+  HTML: <button aria-pressed="false" class="inline-flex items-center justify-center text-sm font-medium transition-colors data-[state=on]:bg-accent data-[state=on]:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 ...
+
+Button 13:
+  Text: 
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'text-xs', 'font-medium', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'size-9', 'bg-primary', 'text-primary-foreground', 'shadow', 'hover:bg-primary/90', 'active:scale-98', 'group', 'shrink-0', 'rounded-full', 'transition-all', 'duration-300', 'focus-visible:outline-foreground', 'cursor-not-allowed'], 'disabled': '', 'data-state': 'closed'}
+  HTML: <button class="inline-flex select-none items-center justify-center whitespace-nowrap text-xs font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 size-9 bg-primary text-primary-foreground shadow hover:bg-primary/90 activ...
+
+Button 14:
+  Text: Research
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-9', 'px-4', 'text-secondary-foreground', 'hover:bg-secondary/80', 'group', 'flex', 'items-center', 'gap-2', 'rounded-xl', 'border', 'bg-surface', 'py-2', 'text-sm', 'font-medium', 'shadow-sm']}
+  HTML: <button class="select-none justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 text-secondary-foreground hover:bg-secondary/80 group flex items-center gap-2 rounded-xl bor...
+
+Button 15:
+  Text: Create
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-9', 'px-4', 'text-secondary-foreground', 'hover:bg-secondary/80', 'group', 'flex', 'items-center', 'gap-2', 'rounded-xl', 'border', 'bg-surface', 'py-2', 'text-sm', 'font-medium', 'shadow-sm']}
+  HTML: <button class="select-none justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 text-secondary-foreground hover:bg-secondary/80 group flex items-center gap-2 rounded-xl bor...
+
+Button 16:
+  Text: Analyse
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-9', 'px-4', 'text-secondary-foreground', 'hover:bg-secondary/80', 'group', 'flex', 'items-center', 'gap-2', 'rounded-xl', 'border', 'bg-surface', 'py-2', 'text-sm', 'font-medium', 'shadow-sm']}
+  HTML: <button class="select-none justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 text-secondary-foreground hover:bg-secondary/80 group flex items-center gap-2 rounded-xl bor...
+
+Button 17:
+  Text: Imagine
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-9', 'px-4', 'text-secondary-foreground', 'hover:bg-secondary/80', 'group', 'flex', 'items-center', 'gap-2', 'rounded-xl', 'border', 'bg-surface', 'py-2', 'text-sm', 'font-medium', 'shadow-sm']}
+  HTML: <button class="select-none justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 text-secondary-foreground hover:bg-secondary/80 group flex items-center gap-2 rounded-xl bor...
+
+Button 18:
+  Text: Solve
+  Attrs: {'class': ['select-none', 'justify-center', 'whitespace-nowrap', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-9', 'px-4', 'text-secondary-foreground', 'hover:bg-secondary/80', 'group', 'flex', 'items-center', 'gap-2', 'rounded-xl', 'border', 'bg-surface', 'py-2', 'text-sm', 'font-medium', 'shadow-sm']}
+  HTML: <button class="select-none justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 text-secondary-foreground hover:bg-secondary/80 group flex items-center gap-2 rounded-xl bor...
+
+Button 19:
+  Text: 'Manage Cookies'.
+  Attrs: {'class': ['rounded-md', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'ml-1', 'underline', 'underline-offset-2']}
+  HTML: <button class="rounded-md transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring ml-1 underline underline-offset-2">'Manage Cookies'.</button>...
+
+Button 20:
+  Text: Accept all
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-8', 'rounded-md', 'px-3', 'text-sm', 'bg-primary', 'text-primary-foreground', 'shadow', 'hover:bg-primary/90', 'w-full']}
+  HTML: <button class="inline-flex select-none items-center justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-8 rounded-md px-3 text-sm bg-primary text-primary-foreground s...
+
+Button 21:
+  Text: Manage Cookies
+  Attrs: {'class': ['inline-flex', 'select-none', 'items-center', 'justify-center', 'whitespace-nowrap', 'font-medium', 'transition-colors', 'focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'disabled:pointer-events-none', 'disabled:opacity-50', 'h-8', 'rounded-md', 'px-3', 'text-sm', 'bg-secondary', 'text-secondary-foreground', 'shadow', 'hover:bg-secondary/80', 'w-full', 'border']}
+  HTML: <button class="inline-flex select-none items-center justify-center whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-8 rounded-md px-3 text-sm bg-secondary text-secondary-foregrou...
+
+Button 22:
+  Text: All
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'true', 'aria-controls': 'radix-:r13:-content-all', 'data-state': 'active', 'id': 'radix-:r13:-trigger-all', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-all" aria-selected="true" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none...
+
+Button 23:
+  Text: Pro
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r13:-content-pro', 'data-state': 'inactive', 'id': 'radix-:r13:-trigger-pro', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-pro" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-non...
+
+Button 24:
+  Text: Reasoning
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r13:-content-reasoning', 'data-state': 'inactive', 'id': 'radix-:r13:-trigger-reasoning', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-reasoning" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-even...
+
+Button 25:
+  Text: Coding
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r13:-content-coding', 'data-state': 'inactive', 'id': 'radix-:r13:-trigger-coding', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-coding" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-...
+
+Button 26:
+  Text: Writing
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r13:-content-writing', 'data-state': 'inactive', 'id': 'radix-:r13:-trigger-writing', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-writing" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events...
+
+Button 27:
+  Text: Speed
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r13:-content-speed', 'data-state': 'inactive', 'id': 'radix-:r13:-trigger-speed', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r13:-content-speed" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-n...
+
+Button 28:
+  Text: All
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'true', 'aria-controls': 'radix-:r1a:-content-all', 'data-state': 'active', 'id': 'radix-:r1a:-trigger-all', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-all" aria-selected="true" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none...
+
+Button 29:
+  Text: Pro
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r1a:-content-pro', 'data-state': 'inactive', 'id': 'radix-:r1a:-trigger-pro', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-pro" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-non...
+
+Button 30:
+  Text: Reasoning
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r1a:-content-reasoning', 'data-state': 'inactive', 'id': 'radix-:r1a:-trigger-reasoning', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-reasoning" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-even...
+
+Button 31:
+  Text: Coding
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r1a:-content-coding', 'data-state': 'inactive', 'id': 'radix-:r1a:-trigger-coding', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-coding" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-...
+
+Button 32:
+  Text: Writing
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r1a:-content-writing', 'data-state': 'inactive', 'id': 'radix-:r1a:-trigger-writing', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-writing" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events...
+
+Button 33:
+  Text: Speed
+  Attrs: {'type': 'button', 'role': 'tab', 'aria-selected': 'false', 'aria-controls': 'radix-:r1a:-content-speed', 'data-state': 'inactive', 'id': 'radix-:r1a:-trigger-speed', 'class': ['inline-flex', 'items-center', 'justify-center', 'whitespace-nowrap', 'ring-offset-background', 'transition-all', 'focus-visible:outline-none', 'focus-visible:ring-2', 'focus-visible:ring-ring', 'focus-visible:ring-offset-2', 'disabled:pointer-events-none', 'disabled:opacity-50', 'shrink-0', 'gap-1.5', 'rounded-xl', 'px-2.5', 'py-1.5', 'text-sm', 'font-medium', 'data-[state=active]:bg-foreground', 'data-[state=inactive]:bg-secondary', 'data-[state=active]:text-background', 'data-[state=inactive]:text-muted-foreground', 'data-[state=active]:shadow-none'], 'tabindex': '-1', 'data-orientation': 'horizontal', 'data-radix-collection-item': ''}
+  HTML: <button aria-controls="radix-:r1a:-content-speed" aria-selected="false" class="inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-n...
+
+Button 34:
+  Text: Auto Select Model
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent', 'overflow-hidden']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent overflow-hidden"><div class="...
+
+Button 35:
+  Text: 1Gemini 2.5 Flash Lite
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 36:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 37:
+  Text: 1MiniMax M2.7
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 38:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 39:
+  Text: 5Claude Haiku 4.5
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 40:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 41:
+  Text: 5Kimi K2.6
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 42:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 43:
+  Text: 10Grok 4.3
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 44:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 45:
+  Text: 5DeepSeek v4 Pro
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 46:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 47:
+  Text: 30Gemini 3.1 Pro
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+
+Button 48:
+  Text: 
+  Attrs: {'type': 'button', 'class': ['absolute', 'bottom-1', 'right-1.5', 'z-10', 'flex', 'size-8', 'items-center', 'justify-center', 'md:opacity-0', 'group-hover:opacity-100']}
+  HTML: <button class="absolute bottom-1 right-1.5 z-10 flex size-8 items-center justify-center md:opacity-0 group-hover:opacity-100" type="button"><span style="display: inline-flex; opacity: 1; transform: none;" tabindex="0"><svg aria-hidden="true" class="lucide lucide-pin size-4 text-muted-foreground hove...
+
+Button 49:
+  Text: 20Gemini 3.5 Flash
+  Attrs: {'class': ['focus-visible:outline-none', 'focus-visible:ring-1', 'focus-visible:ring-ring', 'group', 'relative', 'flex', 'h-full', 'w-full', 'flex-col', 'items-start', 'justify-start', 'gap-6', 'rounded-xl', 'p-4', 'text-left', 'shadow-md', 'transition-all', 'duration-300', 'cursor-pointer', 'border', 'bg-card', 'hover:bg-accent']}
+  HTML: <button class="focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring group relative flex h-full w-full flex-col items-start justify-start gap-6 rounded-xl p-4 text-left shadow-md transition-all duration-300 cursor-pointer border bg-card hover:bg-accent"><button class="absolute bott...
+

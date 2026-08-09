@@ -1,0 +1,13 @@
+--- Test 2: MCP Tool Call (list_prs) ---
+> Could you please use the list_prs tool to list the PRs? You must output the exact <tool_call> XML block.
+I couldn’t list the PRs because the tool returned: Error: gh CLI not found or not authenticated. Run: gh auth login
+
+If you want, I can help you get past this by giving you the exact gh authentication steps, and then you can retry the PR listing. Would you like that?
+
+--- Test 3: Skill Tool Call (read_skill) ---
+> Could you please use the read_skill tool to read the "graphify" skill? You must output the exact <tool_call> XML block.
+I’ve read the graphify skill.
+
+It’s a workflow for turning a folder into a clustered knowledge graph with three main outputs: an interactive HTML graph, a persistent JSON graph, and a plain-language report. It supports full builds, incremental updates, clustering-only runs, query/path/explain commands...
+
+If you want, I can now help you either plan a /graphify run, explain a specific subcommand, or translate the skill into a concrete step-by-step invocation for your repo.

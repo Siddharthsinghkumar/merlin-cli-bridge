@@ -1,0 +1,26 @@
+# Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Browser Profiles & Data
+chrome_profile/
+playwright_profile/
+*.db
+sessions.db
+
+# Logs & Debug Artifacts
+*.log
+*.png
+*.html
+*_files/
+*.json
+!mcp_servers.json
+!models_db.json
+
+# Scratch & Output
+graphify-out/
+obsidian_vault/
+.aider*
