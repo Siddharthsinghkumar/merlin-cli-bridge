@@ -3,6 +3,7 @@ import aiohttp
 import json
 import sys
 import time
+import os
 
 API_BASE = "http://127.0.0.1:8000/v1"
 
@@ -41,6 +42,9 @@ async def chat_request(session, messages, stream=False):
             return full_text
 
 async def test_context():
+    if os.getenv("CI") == "true":
+        print("\n--- Skipping Context Memory in CI (Requires Browser) ---")
+        return
     print("\n--- Testing Context Memory & Persistent Chat ---")
     async with aiohttp.ClientSession() as session:
         # Turn 1
@@ -73,6 +77,9 @@ async def concurrent_subagent_worker(session, id, query):
     return ans
 
 async def test_concurrent_subagents():
+    if os.getenv("CI") == "true":
+        print("\n--- Skipping Concurrent Subagents in CI (Requires Browser) ---")
+        return
     print("\n--- Testing Concurrent Subagent Tab Pooling ---")
     async with aiohttp.ClientSession() as session:
         tasks = [

@@ -21,7 +21,10 @@ async def lifespan(app: FastAPI):
     await mcp_manager.start()
     if skill_manager:
         skill_manager.load_skills()
-    yield
+    try:
+        yield
+    finally:
+        await mcp_manager.stack.aclose()
 
 app = FastAPI(lifespan=lifespan)
 
